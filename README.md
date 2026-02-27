@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Nayan Mia</h1>
 <h3 align="center">A Passionate Flutter Mobile App developer from Bangladesh</h3>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayansoftdev&label=Profile%20views&color=0e75b6&style=flat" alt="nayansoftdev" /> </p>
 
