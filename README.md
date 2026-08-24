@@ -17,7 +17,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NayanSoftDev?tab=repositories](https://github.com/NayanSoftDev?tab=repositories)
 
-- 💬 Ask me about **Flutter,Dart.Firebase,Api integration,Sql Database**
+- 💬 Ask me about 
+Languages: Dart, JavaScript, Java, PHP
+Frameworks: Flutter (Bloc, Cubit, Provider, GetX), React Native
+Architecture: Clean Architecture, MVVM, MVC
+Backend & DB: Firebase (Auth, Firestore, Storage), Node.js, Express.js, MySQL, SQLite
+APIs & Integration: RESTful APIs, Socket.IO, WebRTC, Map Integration, Push Notifications (FCM), Third-Party SDK Integration, Payment Gateway, In Apps Perches 
+Testing & Quality: Unit Testing, Widget Testing, Firebase Crashlytics, Flutter DevTools (performance profiling)
+Version Control: Git, GitHub (branching, pull requests, merge conflict resolution, code review)
+Tools: VS Code, Android Studio, Postman, Swagger, GitHub Desktop
+Deployment: Google Play Store, Apple App Store
+
 
 - 📫 How to reach me **Noyon040597@gmail.com**
 
