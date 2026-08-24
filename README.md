@@ -31,7 +31,7 @@ Deployment: Google Play Store, Apple App Store
 
 - 📫 How to reach me **Noyon040597@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1YzKTql-FkSL9bXy4nReqUSC1aYY9f-D-?usp=sharing](https://drive.google.com/drive/folders/1YzKTql-FkSL9bXy4nReqUSC1aYY9f-D-?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xOT04NPLB3CX9QLEtuS4xcljRrShT6CF?usp=drive_link]
 
 - ⚡ Fun fact **I Think I am Funny**
 
