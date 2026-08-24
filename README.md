@@ -7,17 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayansoftdev" alt="nayansoftdev" /></a> </p>
 
-- 🔭 I’m currently working on [quikle](https://github.com/nuhan021/quikle_vendor)
-
-- 🌱 I’m currently learning **Node Js**
-
-- 👯 I am working collaboratively on different projects. [benkelly](https://github.com/softvence-omega-runtime-terror/benkelly864)
-
-- 🤝 This is my complete project link [Ship Management](https://github.com/Softvence-Omega-Dev-Ninjas/adelbenali)
-
-- 👨‍💻 All of my projects are available at [https://github.com/NayanSoftDev?tab=repositories](https://github.com/NayanSoftDev?tab=repositories)
-
-- 💬 Ask me about 
+- 💬 Ask me about :
 Languages: Dart, JavaScript, Java, PHP
 Frameworks: Flutter (Bloc, Cubit, Provider, GetX), React Native
 Architecture: Clean Architecture, MVVM, MVC
@@ -28,11 +18,13 @@ Version Control: Git, GitHub (branching, pull requests, merge conflict resolutio
 Tools: VS Code, Android Studio, Postman, Swagger, GitHub Desktop
 Deployment: Google Play Store, Apple App Store
 
-
+- 🔭 I’m currently working on [quikle](https://github.com/nuhan021/quikle_vendor)
+- 🌱 I’m currently learning **Node Js**
+- 👯 I am working collaboratively on different projects. [benkelly](https://github.com/softvence-omega-runtime-terror/benkelly864)
+- 🤝 This is my complete project link [Ship Management](https://github.com/Softvence-Omega-Dev-Ninjas/adelbenali)
+- 👨‍💻 All of my projects are available at [https://github.com/NayanSoftDev?tab=repositories](https://github.com/NayanSoftDev?tab=repositories)
 - 📫 How to reach me **Noyon040597@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1xOT04NPLB3CX9QLEtuS4xcljRrShT6CF?usp=drive_link]
-
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
